@@ -1,1 +1,3 @@
-# JavaThreadTest
+# JavaTestDemo
+
+Java基础Demo，不太齐之前多线程手残删了一部分...
